@@ -28,4 +28,4 @@ To run the notebook locally, ensure you have the following dependencies installe
 Install the dependencies using pip:
 
 ```bash
-pip install pandas matplotlib scikit-learn
+pip install pandas numpy seaborn matplotlib scikit-learn
